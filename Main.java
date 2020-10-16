@@ -17,7 +17,7 @@ public class ScannerTut {
     }
     else 
     {
-    public static void main(String[] args) {. 
+    
     System.out.println("that's a good choice");
     System.out.println("would you like your pices to be gift wraped up for you ");
     System.out.println("or put in a bag ")//;  
