@@ -40,7 +40,7 @@ public class ScannerTut {
 
     }
     else 
-    {
+    { 
 
     System.out.println("those are very beautiful choices");//
     System.out.println("how would you like your pices to be delivered for you");//
