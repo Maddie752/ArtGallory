@@ -23,7 +23,7 @@ public class ScannerTut {
     System.out.println("or put in a bag ");//
     System.out.println(" have a good day and come again");
     //
-     
+    
     System.out.println("wellcome to the art gallery!");//
     System.out.println("how many pices of art would you like to buy");//
       
