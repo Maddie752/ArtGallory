@@ -30,7 +30,7 @@ public class ScannerTut {
        Scanner scan = new Scanner(System.in);
     int picesOfArt = scan.nextInt();
     int count = 3;
-      while (count < picesOfArt) {
+    while (count < picesOfArt) {
       System.out.print("witch pices do you want to buy");
       int witchPices = scan.nextInt();//
 
