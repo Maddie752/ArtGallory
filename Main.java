@@ -20,7 +20,7 @@ public class ScannerTut {
     
     System.out.println("that's a good choice");
     System.out.println("would you like your pices to be gift wraped up for you ");
-    System.out.println("or put in a bag ")//;  
+    System.out.println("or put in a bag ");//
     System.out.println(" have a good day and come again");
     //
     
@@ -43,7 +43,7 @@ public class ScannerTut {
     {
 
     System.out.println("those are very beautiful choices");//
-    System.out.println("how would you like your pices to be delivered for you");
+    System.out.println("how would you like your pices to be delivered for you");//
     System.out.println("we can do it by airplane, overseas,or by mail"); // 
      System.out.println("by mail you said");
      byMailYouSaid = scan.nextInt();//
@@ -51,4 +51,4 @@ public class ScannerTut {
      willThatBeAll = scan.nextInt();//
      System.out.println("come back soon and have a good day");//
     }
-  }
+}
