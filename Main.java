@@ -28,7 +28,7 @@ public class ScannerTut {
     System.out.println("how many pices of art would you like to buy");//
       
        Scanner scan = new Scanner(System.in);
-      int picesOfArt = scan.nextInt();
+    int picesOfArt = scan.nextInt();
       int count = 3;
       while (count < picesOfArt) {
       System.out.print("witch pices do you want to buy");
