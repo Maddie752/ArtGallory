@@ -50,5 +50,6 @@ public class ScannerTut {
      System.out.println("will that be all");
      willThatBeAll = scan.nextInt();//
      System.out.println("come back soon and have a good day");
-     }
-}
+
+    }
+} 
